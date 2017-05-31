@@ -14,5 +14,5 @@
 
 **Donate to [Kisonik](https://github.com/orgs/ProjectCeleste/people/kisonik):** Soon.
 
-**Donate to [Lucianno](https://github.com/orgs/ProjectCeleste/people/luciano7):** Soon.
+**Donate to [Lucianno](https://github.com/orgs/ProjectCeleste/people/luciano7):** [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LucianoPereira) 
 

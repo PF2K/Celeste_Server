@@ -2,10 +2,6 @@
 
 **Follow us on Discord:** [![Discord](https://img.shields.io/discord/234105032381825024.svg)](https://discord.gg/pkM2RAm)
 
-**How to become a public tester:** Soon.
-
-**How to become a private tester:** Support us on https://www.patreon.com/aoeo
-
 ---------------------------------------------------------------------------------------------------------------
 
 # Donate (Buy us a cup of coffee)
